@@ -10,7 +10,7 @@ Criar um site responsivo que se adeque em dispositivos de diferentes dimensões-
 
 ## - [Página 3](paginas/pagina3.html)
 
-## - [Site HTML](paginas/site,html)
+## - [Site HTML](paginas/site.html)
 
 
 
